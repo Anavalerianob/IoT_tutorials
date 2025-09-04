@@ -16,7 +16,7 @@ Aqui você encontra a lista de todos os tutoriais disponíveis. Cada projeto pos
 
 | Projeto                                             | Descrição                                                              | Status      |
 | :-------------------------------------------------- | :--------------------------------------------------------------------- | :---------- |
-| 📂 **[Regador de Plantas Automático](./regador-de-plantas/)** | Um sistema que rega suas plantas automaticamente quando a terra está seca. | ✅ Completo |
+| 📂 **[Regador de Plantas Automático](./regador-de-plantas/)** | Um sistema que rega suas plantas automaticamente de tempo em tempo. |⏳ Em breve|
 | 📂 **(Seu Próximo Projeto)** | (Breve descrição do seu próximo projeto incrível)                       | ⏳ Em breve  |
 
 
