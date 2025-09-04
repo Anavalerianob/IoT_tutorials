@@ -1,8 +1,8 @@
-# IoI Tutorials - Internet of Things para o dia a dia
+# IoT Tutorials - Internet of Things para o dia a dia
 
 ![Banner de Tutoriais de IoT](https://i.imgur.com/7b5b5c1.png)
 
-Bem-vindo ao **IoI Tutorials** (Internet of Ideas)! Este é um repositório dedicado a projetos de Internet das Coisas (IoT) práticos, de baixo custo e fáceis de montar, focados em resolver pequenos problemas do nosso cotidiano.
+Bem-vindo ao **IoT Tutorials** (Internet of Things)! Este é um repositório dedicado a projetos de Internet das Coisas (IoT) práticos, de baixo custo e fáceis de montar, focados em resolver pequenos problemas do nosso cotidiano.
 
 ## 🎯 Nossa Missão
 
