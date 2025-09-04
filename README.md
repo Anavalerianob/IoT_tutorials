@@ -4,7 +4,7 @@
 
 Bem-vindo ao **IoT Tutorials** (Internet of Things)! Este é um repositório dedicado a projetos de Internet das Coisas (IoT) práticos, de baixo custo e fáceis de montar, focados em resolver pequenos problemas do nosso cotidiano.
 
-## 🎯 Nossa Missão
+## 🎯 Minha Missão
 
 A tecnologia pode ser uma grande aliada para automatizar tarefas, economizar recursos e, acima de tudo, para aprendermos algo novo de forma divertida. A missão deste repositório é desmistificar a eletrônica e a programação, mostrando como qualquer pessoa pode criar seus próprios dispositivos inteligentes com componentes acessíveis como o Arduino.
 
