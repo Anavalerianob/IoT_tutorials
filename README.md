@@ -30,7 +30,7 @@ Aqui você encontra a lista de todos os tutoriais disponíveis. Cada projeto pos
 
 ## 🤝 Contribuição
 
-Tem uma ideia para um projeto que resolve um problema do dia a dia? Encontrou algum erro em um dos tutoriais? Sinta-se à vontade para abrir uma **"Issue"** neste repositório para discutirmos novas ideias ou melhorias.
+Tem uma ideia para um projeto que resolve um problema do dia a dia? Encontrou algum erro em um dos tutoriais? Sinta-se à vontade para abrir uma Issue no repositório para discutirmos novas ideias ou melhorias.
 
 ---
 
