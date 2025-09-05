@@ -16,7 +16,7 @@ Aqui você encontra a lista de todos os tutoriais disponíveis. Cada projeto pos
 
 | Projeto                                             | Descrição                                                              | Status      |
 | :-------------------------------------------------- | :--------------------------------------------------------------------- | :---------- |
-| 📂 **[Introdução ao Arduino](https://github.com/Anavalerianob/Introducao_arduino)** | Guia inicial para quem nunca usou Arduino. O ponto de partida! | ✅ Completo |
+| 📂 **[Introdução ao Arduino](https://github.com/Anavalerianob/Introducao_arduino)** | Guia inicial para quem nunca usou Arduino.| ✅ Completo |
 | 📂 **[Regador de Plantas Automático](./regador-de-plantas/)** | Um sistema que rega suas plantas automaticamente de tempo em tempo. | ⏳ Em breve |
 | 📂 **Próximo Projeto** | (Breve descrição do seu próximo projeto incrível)                       | ⏳ Em breve  |
 
