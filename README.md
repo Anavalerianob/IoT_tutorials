@@ -26,7 +26,7 @@ Aqui você encontra a lista de todos os tutoriais disponíveis. Cada projeto pos
 1.  **Escolha um Projeto:** Navegue pela lista de projetos acima.
 2.  **Acesse a Pasta:** Clique no nome do projeto para acessar sua pasta.
 3.  **Siga o Tutorial:** Dentro de cada pasta, você encontrará um `README.md` com o passo a passo completo.
-4.  **Monte e Divirta-se:** Siga as instruções, carregue o código no seu Arduino e veja a mágica acontecer!
+
 
 ## 🤝 Contribuição
 
